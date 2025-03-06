@@ -62,7 +62,7 @@ echo '<h1>Hello, World!</h1>' > /var/www/html/index.html
 
 6.Facem refresh la pagina si observam rezultatul
 
-![Refresh page](images/test.png)
+![Refresh page](images/Test.png)
 
 7.Executam urmatoarele comenzi apoi:
 
